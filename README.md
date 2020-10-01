@@ -56,6 +56,7 @@
 - [Killed by Google](https://github.com/codyogden/killedbygoogle)
 - [Open source drinks](https://github.com/alfg/opendrinks)
 - [Predator](https://github.com/Zooz/predator)
+- [Remixr - Spotify Playlist Generator](https://github.com/rtkg12/remixr)
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
 - [Text Adventure Game Collection](https://github.com/D4rk3l/text-adventure-hacktoberfest)
 - [useful-dev-tools](https://github.com/lucasnaja/useful-dev-tools)
